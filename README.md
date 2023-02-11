@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nonso</h1>
-<h3 align="center"> I am a Microsoft certified fullstack .NET developer based in Lagos, Nigeria. With a background in Industrial Chemistry (Bsc), I am currently building an ecommerce platform using .NET 6 MVC. When I am not writing code,I enjoy making music.</h3>
+<h3 align="center"> I am a Microsoft certified fullstack .NET developer based in Lagos, Nigeria. A graduate of Pure and Industrial Chemistry (Bsc) from the University Of Nigeria. When I am not writing code,I enjoy making music.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tonykodit&label=Profile%20views&color=0e75b6&style=flat" alt="tonykodit" /> </p>
 
