@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **an E-commerce App using .NET 6**
 
-- 🌱 I’m currently learning **Python,Cloud Computing**
+- 🌱 I’m currently learning **Cloud Computing**
 
 - 💬 Ask me about **anything .NET**
 
