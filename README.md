@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tonykodit" alt="tonykodit" /></a> </p>
 
-- 🔭 I’m currently working on **an E-commerce App using .NET 6**
+- 🔭 I’m currently working on **a Flight Booking App using .NET 6 and Angular**
 
-- 🌱 I’m currently learning **Cloud Computing**
+- 🌱 I’m currently learning **Full Stack development using .NET and Angular**
 
 - 💬 Ask me about **anything .NET**
 
 - 📫 How to reach me **onwulinonso@gmail.com**
 
-- ⚡ Fun fact **Plantain is life**
+- ⚡ Fun fact **You should probably check out my music https://linktr.ee/nolly_cia **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
